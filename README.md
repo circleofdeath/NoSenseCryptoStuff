@@ -1,7 +1,7 @@
 # Setup
 
 1. Install repo
-2. Setup up database (btw in application.properties: 'spring.application.name=crypto')
+2. Setup up database (btw in see application_template.properties to make application.properties)
 3. Execute this SQL-command:
 ```
 CREATE TABLE launch_pool_info (
